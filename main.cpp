@@ -7,8 +7,8 @@
 #include <ESP32Servo.h>
 
 char auth[] = "OKu5ABxncyIXSk3okLPYk9kmPCsKI7FI";  
-char ssid[] = "abcd"; 
-char password[] = "12345678";    
+char ssid[] = ""; 
+char password[] = "";    
 
 Servo myServo;
 int servoPin = 13;
